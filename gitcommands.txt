@@ -12,6 +12,7 @@ git checkout file_name
 git checkout branch_name 
 git remote add origin url....
 git remote -v
+git remote remove origin ->(to reset the remote if repository is deleted then agai usegit remote add origin url.... )
 git push origin master 
 git push origin branch_name  
 git push 
